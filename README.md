@@ -4,7 +4,9 @@ Una calcolatrice web intuitiva e moderna per convertire varie unità di misura.
 
 ## Caratteristiche
 
-- **7 Categorie di Conversione:**
+- **12 Categorie di Conversione:**
+
+  **Unità Generali:**
   - 📏 **Lunghezza**: metri, chilometri, centimetri, millimetri, miglia, yard, piedi, pollici
   - ⚖️ **Peso**: chilogrammi, grammi, milligrammi, tonnellate, libbre, once
   - 🌡️ **Temperatura**: Celsius, Fahrenheit, Kelvin
@@ -12,6 +14,13 @@ Una calcolatrice web intuitiva e moderna per convertire varie unità di misura.
   - 📐 **Area**: metri quadrati, chilometri quadrati, ettari, acri, piedi quadrati
   - 🚀 **Velocità**: metri al secondo, chilometri all'ora, miglia all'ora, nodi
   - ⏱️ **Tempo**: secondi, minuti, ore, giorni, settimane, anni
+
+  **Unità Ingegneristiche:**
+  - 🔧 **Pressione**: Pascal, kPa, MPa, bar, kg/cm², psi, atm, mmHg
+  - 💪 **Forza**: Newton, kN, MN, kgf, lbf, dyne
+  - ⚡ **Energia**: Joule, kJ, MJ, kWh, calorie, kcal
+  - 🔌 **Potenza**: Watt, kW, MW, HP (metrici), HP (US), BTU/h
+  - 🔩 **Momento/Coppia**: Nm, kgf·m, lbf·ft, lbf·in, dyne·cm
 
 - **Interfaccia Intuitiva:**
   - Design moderno e responsive
